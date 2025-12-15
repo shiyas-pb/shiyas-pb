@@ -14,45 +14,6 @@ DevOps Engineer with hands-on experience in Linux system administration, cloud p
 
 🔧 Strong background in troubleshooting, automation, and production support
 
-🛠️ Skills & Technologies
-
-🐧 Operating Systems
-
-Linux (RHEL, AlmaLinux, Rocky Linux, Ubuntu)
-
-Windows
-
-☁️ Cloud Platforms
-
-AWS (EC2, VPC, IAM, S3, RDS, Route 53, ALB)
-
-Microsoft Azure (VMs, VNets, Storage)
-
-⚙️ DevOps & Automation
-
-Ansible
-
-Terraform
-
-Jenkins (CI/CD pipelines)
-
-Git & GitHub
-
-📦 Containers & Orchestration
-
-Docker
-
-Kubernetes (basic operations, deployments, services)
-
-🌐 Networking Fundamentals
-
-TCP/IP, DNS, DHCP
-
-Subnetting, Routing, Switching
-
-📜 Certifications
-
-Red Hat Certified System Administrator (RHCSA)🔗 https://www.credly.com/badges/38c65f3c-6d5c-4a54-ba79-f8b6efd0c54b/public_url
 
 
 ⭐ I’m actively learning and building projects in DevOps and Cloud. Feel free to connect with me!

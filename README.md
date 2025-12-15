@@ -1,9 +1,61 @@
-# Hi 👋, I'm Shiyas PB
+Hi 👋, I'm Shiyas PB
 
-### DevOps Engineer
+DevOps Engineer with hands-on experience in Linux system administration, cloud platforms (AWS & Azure), infrastructure automation, containerization, and CI/CD pipelines. I enjoy building reliable, secure, and scalable systems while continuously learning modern DevOps and cloud-native technologies.
 
-- 📫 How to reach me **shiyas_pb@hotmail.com**
+🧑‍💻 About Me
 
+🎓 B.Tech in Electronics and Communication Engineering
+
+🎓 Diploma in Electronics
+
+🏅 Red Hat Certified System Administrator (RHCSA)
+
+💼 Experience in DevOps, Cloud, and Technical Support roles
+
+🔧 Strong background in troubleshooting, automation, and production support
+
+🛠️ Skills & Technologies
+
+🐧 Operating Systems
+
+Linux (RHEL, AlmaLinux, Rocky Linux, Ubuntu)
+
+Windows
+
+☁️ Cloud Platforms
+
+AWS (EC2, VPC, IAM, S3, RDS, Route 53, ALB)
+
+Microsoft Azure (VMs, VNets, Storage)
+
+⚙️ DevOps & Automation
+
+Ansible
+
+Terraform
+
+Jenkins (CI/CD pipelines)
+
+Git & GitHub
+
+📦 Containers & Orchestration
+
+Docker
+
+Kubernetes (basic operations, deployments, services)
+
+🌐 Networking Fundamentals
+
+TCP/IP, DNS, DHCP
+
+Subnetting, Routing, Switching
+
+📜 Certifications
+
+Red Hat Certified System Administrator (RHCSA)🔗 https://www.credly.com/badges/38c65f3c-6d5c-4a54-ba79-f8b6efd0c54b/public_url
+
+
+⭐ I’m actively learning and building projects in DevOps and Cloud. Feel free to connect with me!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/shiyas-pb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shiyas-pb" height="30" width="40" /></a>

@@ -2,8 +2,6 @@
 
 ### DevOps Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiyas-pb" alt="shiyas-pb" /></a> </p>
-
 - 📫 How to reach me **shiyas_pb@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

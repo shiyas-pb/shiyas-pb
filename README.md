@@ -4,10 +4,6 @@ DevOps Engineer with hands-on experience in Linux system administration, cloud p
 
 🧑‍💻 About Me
 
-🎓 B.Tech in Electronics and Communication Engineering
-
-🎓 Diploma in Electronics
-
 🏅 Red Hat Certified System Administrator (RHCSA)
 
 💼 Experience in DevOps, Cloud, and Technical Support roles
